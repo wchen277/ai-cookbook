@@ -3,6 +3,8 @@ import nest_asyncio
 from mcp import ClientSession
 from mcp.client.sse import sse_client
 
+## added by W on 8/3/2025
+
 nest_asyncio.apply()  # Needed to run interactive python
 
 """
