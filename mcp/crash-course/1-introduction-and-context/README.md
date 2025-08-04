@@ -1,5 +1,9 @@
 # MCP Crash Course for Python Developers
 
+##
+## edited here by WC
+##
+
 ## Part 1: Introduction & Context
 
 ### The MCP Hype vs. Reality
